@@ -1,2 +1,0 @@
-# peteblog
-Pete's Blog
