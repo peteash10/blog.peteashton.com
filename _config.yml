@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pete Ashton's blog
-email: your-email@domain.com
+email: pete@peteashton.com
 description: > # this means to ignore newlines until "baseurl:"
   I need to get this madness out of my head somehow. Hopefully it's 
   entertaining to someone, if not interesting or useful. 
@@ -30,3 +30,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+permalink: pretty
