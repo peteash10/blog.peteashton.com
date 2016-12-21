@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: About this blog
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is [Pete Ashton](http://peteashton.com). I used to blog a lot. I stopped for a while but the voices in my head got too crazy so now I'm blogging again to try and quell them. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+More prosiacally, I find squeezing ideas and thoughts into sentences that might make sense to strangers a good way of figuring things out. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[Some of those things become art](http://art.peteashton.com). Some just get me through the day. 
