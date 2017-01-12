@@ -35,8 +35,8 @@ P Cafe put in on their [Facebook](https://www.facebook.com/events/36640562372064
 
 (One person had to go early and another arrived late, so it was seven at any one time.) 
 
-Everyone seemed to get something out of it and wanted to see it continue (which it will, probably on Feb 9th once I get confirmation it's free), which was great. The interesting, yet not that surprising, thing was how most people had the same problem of lacking structure and feeling bad that their creative or artistic workflow didn't want to follow the kind of workflow a "proper" job has. And that when you're essentially making work to satisfy yourself, being pleased with that work is really hard. And alongside the group therapy stuff there was also practical help for people looking to shape work in progress, from film editing to event curating to figuring out how to electromagnify a steel scupture. 
+Everyone seemed to get something out of it and wanted to see it continue, which was great. The interesting, yet not that surprising, thing was how most people had the same problem of lacking structure and feeling bad that their creative or artistic workflow didn't want to follow the kind of workflow a "proper" job has. And that when you're essentially making work to satisfy yourself, being pleased with that work is really hard. And alongside the group therapy stuff there was also practical help for people looking to shape work in progress, from film editing to event curating to figuring out how to electromagnify a steel scupture. 
 
 In short, it was an opportunity to get out of the studio or away from the screen and vocalise the demons, and it succeeded at that. 
 
-Onwards.
+The next one is Feb 9th, 3pm, same place. See you there? 
