@@ -39,8 +39,4 @@ Everyone seemed to get something out of it and wanted to see it continue, which 
 
 In short, it was an opportunity to get out of the studio or away from the screen and vocalise the demons, and it succeeded at that. 
 
-<<<<<<< HEAD
-The next one is Feb 16th, 3pm, same place. See you there? 
-=======
-The next one is Feb 16th, 3pm, same place. See you there? 
->>>>>>> origin/gh-pages
+The next one is Feb 16th, 3pm, same place. See you there?
