@@ -31,7 +31,7 @@ With the training underway I started to prepare my input for the final piece. I 
 
 ![](/images/dorian_sq_01.jpg)
 
-Once the training had finished processing overnight (it's a long process, though my electricity usage plug says it only cost 24p for 12 hours, which isn't bad) I asked it to generate photos from all 91 pages. Here's that first ; again. 
+Once the training had finished processing overnight (it's a long process, though my electricity usage plug says it only cost 24p for 12 hours, which isn't bad) I asked it to generate photos from all 91 pages. Here's that first page again. 
 
 ![](/images/dorian_sq_01-after.jpg)
 
