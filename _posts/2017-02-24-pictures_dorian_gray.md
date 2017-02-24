@@ -39,6 +39,6 @@ And here's all the pages in a [video](https://vimeo.com/205563393):
 
 <iframe src="https://player.vimeo.com/video/205563393?loop=1&title=0&byline=0&portrait=0" width="640" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-You can also [download it as a PDF](Pictures_From_Dorian_Gray.pdf) if you like. 
+You can also [download it as a PDF](/images/Pictures_From_Dorian_Gray.pdf) if you like. 
 
 Much more to be done, which is why this is a blog post and not on my Art website yet. Onwards! 
