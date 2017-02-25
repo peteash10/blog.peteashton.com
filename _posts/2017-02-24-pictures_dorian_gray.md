@@ -41,4 +41,4 @@ And here's all the pages in a [video](https://vimeo.com/205563393):
 
 You can also [download it as a PDF](/images/Pictures_From_Dorian_Gray.pdf) if you like. 
 
-Much more to be done, which is why this is a blog post and not on my Art website yet. Onwards! 
+Much more to be done, which is why this is a blog post and not on my [Art website](http://art.peteashton.com) yet. Onwards! 
