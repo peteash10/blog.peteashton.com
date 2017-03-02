@@ -9,7 +9,9 @@ Continuing my experiments with [pix2pix](https://github.com/phillipi/pix2pix), I
 
 Using the same process as [Pictures from Dorian Gray](http://blog.peteashton.com/art/2017/02/24/pictures_dorian_gray/) I cropped and ASCII-ified them to create training pairs. 
 
-![](/images/00112.jpg)![](/images/00285.jpg)![](/images/00498.jpg)
+![](/images/00112.jpg)
+![](/images/00285.jpg)
+![](/images/00498.jpg)
 
 Because training on 13,000 images will take days, if not weeks, I started with a more reasonable 500. My test was an ASCII-art version of the Beatle's Abbey Road picture. 
 
@@ -19,7 +21,8 @@ The training process tries to understand the relationship between the left and r
 
 Here's the test image recreated after 10, 130 and 200 epochs. 
 
-![](/images/abbey3-early.jpg)![](/images/abbey3-mid.jpg)
+![](/images/abbey3-early.jpg)![](/images/abbey3-mid.jpg)
+
 ![](/images/abbey3-final.jpg)
 
 I'm now training on all 13,000 images. While it's doing that I'm going to look into creating prose from the images, using something like Ross Goodwin's [NeuralSnap](https://github.com/rossgoodwin/neuralsnap), trained on the transcriptions of interviews with the kids, which can then be turned back into images. 
