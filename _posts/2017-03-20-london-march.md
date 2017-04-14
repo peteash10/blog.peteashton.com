@@ -5,9 +5,7 @@ date:   2017-03-20 23:00:00 +0000
 category: "Art"
 ---
 
-I've been going to to CreativeAI meetups that Luba Elliot has been organising for the last few months. These happen in London, which involves a train journey. Normally I just pop down in the afternoon, go to the talks, and head back, but I'm at a relatively looser end having got a big funding application in on Friday (No, I haven't looked at the email backlog. Yes, I'll look at it tomorrow.) and Fi had a spare day, and one of the privatised train companies had a "sale" meaning their tickets were at sane prices, so we decided to make a day of it and see some Art. 
-
-First stop, The Barbican, for the [Richard Mosse](http://www.richardmosse.com) exhibition. I'd heard of Mosse for his amazing [false-colour infrared photos from the war in Eastern Congo](http://www.richardmosse.com/projects/the-enclave), using a chemical interpretation of invisible light to bring a new perspective on the conflict. They start of being weird, and then beautiful and then you're engaged. 
+To The Barbican for the [Richard Mosse](http://www.richardmosse.com) exhibition. I'd heard of Mosse for his amazing [false-colour infrared photos from the war in Eastern Congo](http://www.richardmosse.com/projects/the-enclave), using a chemical interpretation of invisible light to bring a new perspective on the conflict. They start of being weird, and then beautiful and then you're engaged. 
 
 ![](/images/mosse-barbican-2.jpg)
 
