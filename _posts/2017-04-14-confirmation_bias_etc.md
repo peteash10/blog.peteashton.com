@@ -5,8 +5,6 @@ date:   2017-04-14 02:00:00 +0000
 category: "Art"
 ---
 
-***Typo warning:*** *I find I cannot properly proofread my work until it's been public for a day. This hasn't been properly proofread yet. There will be typos.*
-
 Since submitting my big funding application for [Instructions For Humans](http://art.peteashton.com/instructions-for-humans/) three weeks ago, and with three week to go until I hear if I'm getting it or not, I've been in a weird kind of limbo were I don't want to start anything major just in case but I can't just switch off. A new carpentry habit has helped (I seem to be making a new addition / improvement to the rabbit shed whenever the sun is out) but mostly I'm doing lots of thinking. This is good, in that I'm thinking about things, but it's also dangerous, because I'm thinking about things with no tangible way of realising them. There's also the realisation that the funding application, while solid and realistic, is not a very good outline of the actual art, because it's not for that. Its for funding, and translating it back into "the art I want to make" has been a surprisingly tricky thing to do. 
 
 Thankfully I'm not alone and have discussed this with (or articulated it at) a few people over the last week, mainly my fellow [Goodbye Wittgenstein](http://art.peteashton.com/goodbye-wittgenstein/) alumni and the [Show And Tell](http://art.peteashton.com/showandtell/) group, which has helped a lot. Conversations like these help me put my thoughts into words but they also provide an environment for ideas to glom together and resurface from my memory; ideas that I'd had or concepts I'd gotten interested in but had forgotten about. It's a little like the process of applying for funding pushed them all away for the sake of clarity and I've been slowly dragging them back into the light, only now with the benefit of clarity. 
@@ -29,7 +27,7 @@ This has nothing to do with algorithms and computers. Facebook is not making us 
 
 A classic philosophical conundrum is the [brain in a jar](https://en.wikipedia.org/wiki/Brain_in_a_vat) paradox which very simply says, if we can only know the world through our senses, and if our senses are simply sending signals to our brains, how do with know that our brains are actually getting these signals from our senses and not from a computer? How do we know we're not a brain wired up to a simulation? And yes, The Matrix is basically a film about this. 
 
-What interests me about this isn't so much the answer, (and like all good philosophy it's about the answer but about the question) but the mechanics of it all. Let's break down how we perceive. 
+What interests me about this isn't so much the answer, (like all good philosophy it's all about the question, not the answer) but the mechanics of it all. Let's break down how we perceive. 
 
 There is the world, full of light and noise and stuff. Our senses are trigged by all this light and noise and stimulate parts of our brains. Our brains then somehow turn these signals into an awareness of the world. 
 
@@ -47,7 +45,7 @@ How does this relate to my bigger picture? There's a layer between "us" and the 
 
 This is about the power of words (and my extension all media, which in turn is simply binary data) to change the world. I find exploring "magic" rather perilous as it's full of mystical bollocks and pretentious wankery, but I've found it to be a very fruitful way of understanding how irrational things can come about in societies which profess to be governed by rational thought. Here's my attempt to synthesise it into into something useful. 
 
-Magic is about effecting change in the material world without a material cause. This is, of course, impossible. You cannot move objects with your mind. But you can use your mind to convince another mind to move an object. By this definition, which chose to use, saying "please move that object" to someone and them moving it is a successful magical act. It's not very impressive, but it's a start. 
+Magic is about effecting change in the material world without a material cause. This is, of course, impossible. You cannot move objects with your mind. But you can use your mind to convince another mind to move an object. By this definition, which I choose to use, saying "please move that object" to someone and them moving it is a successful magical act. It's not very impressive, but it's a start. 
 
 Magicians use spells and ritual. A spell is a bunch of words said in a specific order (spell being similar to "spelling" was a big clue to me here) which, when spoken, has the potential to effect change. A ritual is something done over and over again to strengthen an idea or concept. 
 
