@@ -77,7 +77,7 @@ Finally, something fairly straight forward. The concept of the [Black Box](https
 
 This does not refer to the [flight recorder](https://en.wikipedia.org/wiki/Flight_recorder) on a doomed aircraft. It refers to "a device, system or object which can be viewed in terms of its inputs and outputs without any knowledge of its internal workings."
 
-[![](../images/Blackbox3D-withGraphs.png)](https://commons.wikimedia.org/wiki/File:Blackbox3D-withGraphs.png)
+[![](/images/Blackbox3D-withGraphs.png)](https://commons.wikimedia.org/wiki/File:Blackbox3D-withGraphs.png)
 
 This can be a literally closed system where seeing inside is either impossible or restricted by legal or proprietary means, or it can be something so massively complex as to be effectively unknowable. The former happens a lot (Google's search algorithm being kept secret), but the latter is particularly interesting to me as Deep Learning systems, a form of AI that learns from observation, are black boxes even to the people who create them. 
 
