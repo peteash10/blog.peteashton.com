@@ -33,7 +33,7 @@ When we define humans by their work, and we take away that work, what are humans
 
 Continuing the what are humans for question but for Capitalism / Socialism / Christianity / Buddhism / etc. 
 
-### Does AI threaten the machine-augmentation layer between humans and the world? 
+### Does AI threaten the machine-augmentation layer between humans and the world?
 
 Humans are defined by their use of tools, and our perception of the world is directly informed by this use of tools. All humans are cyborgs. But does AI shift the agency in that use of tools from the human to the tool? Is that even possible? 
 
