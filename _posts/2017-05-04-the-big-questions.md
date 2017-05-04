@@ -19,7 +19,7 @@ I like this idea that the internet, and by extension computer mediation, is a mi
 
 ### Why do we trust unknowable human minds but not black-box machine systems?
 
-There's been a lot of talk about how we can't properly interrogate current machine learning systems. Information goes in and instructons come out but no-one really knows how they work. This seems very analogous to humans who are famed for their irrationality. If anything, our unpredicability is what makes us human and allows us to evolve. So why the hell do we trust humans so much?  
+There's been a lot of talk about how we can't properly interrogate current machine learning systems. Information goes in and instructions come out but no-one really knows how they work. This seems very analogous to humans who are famed for their irrationality. If anything, our unpredictability is what makes us human and allows us to evolve. So why the hell do we trust humans so much?  
 
 ### How do we traditionally trust "black-box" systems, such as farming? 
 
