@@ -3,6 +3,7 @@ layout: post
 title:  "A few of the big questions"
 date:   2017-05-04 17:00:00 +0000
 category: "Art"
+redirect_from: "/art/2017/04/14/the-big-questions"
 ---
 
 [Instructions For Humans](http://art.peteashton.com/instructions-for-humans/) won funding support from the Arts Council, which is great, and means I now have to do it, which requires some rapid refocussing. The thing with the Grant for the Arts scheme, which I applied for, is it's all or nothing. Either they give you thousands of pounds to make art, or they don't. And you have to wait six weeks to find out. It's like Schrödinger's Cat in Limbo, or a really boring Sam Beckett play, waiting for a result which will either change your life (I get to make art!) or change your life (I have to get a job now!) with no clue as to which way it'll go. So when you find out it's great and a relief, but also like suddenly having to run a race without any warm-up, and adrenaline with only get you so far. 
