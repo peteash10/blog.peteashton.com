@@ -1,20 +1,36 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include header.html %}
+    <!-- Wrapper -->
+    <div id="wrapper">
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
+        <!-- Main -->
+        <div id="main">
+            <div class="inner">
+
+                {% include header.html %}
+                {% include banner.html %}
+
+                {{ content }}
+
+            </div>
+        </div>
+
+        {% include sidebar.html %}
+
+    </div>
 
     {% include footer.html %}
 
-  </body>
+</body>
 
 </html>
