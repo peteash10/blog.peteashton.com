@@ -197,12 +197,10 @@
   color: $grey-color;
 }
 
-.post-link-block {
-  display: block;
 
-}
 
 .post-link {
+/*  display: block;  */
   @include relative-font-size(1.5);
 }
 
