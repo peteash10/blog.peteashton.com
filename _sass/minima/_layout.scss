@@ -197,8 +197,12 @@
   color: $grey-color;
 }
 
-.post-link {
+.post-link-block {
   display: block;
+
+}
+
+.post-link {
   @include relative-font-size(1.5);
 }
 
