@@ -14,7 +14,7 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> {% if post.category %} <span style="font-size: 80%;">&#8593;&#8593; {{ post.category | escape }}</span> {% endif %}
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> {% if post.category %} <span style="font-size: 80%;">({{ post.category | escape }})</span> {% endif %}
         </h2>
         
       </li>
