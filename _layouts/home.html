@@ -16,7 +16,7 @@ layout: default
         <h2 class="post-link">
           <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> 
         </h2>
-        {% if post.description %}<p> {{ post.description }}</p> {% endif %}
+        {% if post.description %}<p class="post-description"> {{ post.description }}</p> {% endif %}
         
       </li>
     {% endfor %}
