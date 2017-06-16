@@ -3,6 +3,7 @@ layout: post
 title:  "Bias, Brains, Magic, and Black Boxes, amongst other thinkings"
 date:   2017-04-14 02:00:00 +0000
 category: "Art"
+description: A brain-dump of things I've needed to get my head straight on for Instructions for Humans. 
 ---
 
 Since submitting my big funding application for [Instructions For Humans](http://art.peteashton.com/instructions-for-humans/) three weeks ago, and with three week to go until I hear if I'm getting it or not, I've been in a weird kind of limbo were I don't want to start anything major just in case but I can't just switch off. A new carpentry habit has helped (I seem to be making a new addition / improvement to the rabbit shed whenever the sun is out) but mostly I'm doing lots of thinking. This is good, in that I'm thinking about things, but it's also dangerous, because I'm thinking about things with no tangible way of realising them. There's also the realisation that the funding application, while solid and realistic, is not a very good outline of the actual art, because it's not for that. Its for funding, and translating it back into "the art I want to make" has been a surprisingly tricky thing to do. 
