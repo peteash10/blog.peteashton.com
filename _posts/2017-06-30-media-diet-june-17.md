@@ -2,7 +2,7 @@
 layout: post
 title:  "Media Diet for June"
 date:   2017-06-30 01:45:45 +0000
-category: "Media Diet"
+category: "Media"
 description: Maggie's Plan, Jurassic World, Kimmy Schmidt, American Gods, I Hate The Internet, Radical Technologies and some music.
 ---
 
