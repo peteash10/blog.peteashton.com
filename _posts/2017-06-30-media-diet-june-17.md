@@ -34,7 +34,7 @@ Books are mostly related to Instructions for Humans but a couple could be of int
 
 **[I Hate The Internet](http://amzn.to/2sXcvSH)**
 
-Back in the day (circa 2006-2010) I was one of those blogging / social media evangelist types because, through my early adoption (I started blogging in 2000) I saw great potential in these new twists on communication technology. The downward spiral of the subsequent 17 years and counting has been traumatic to watch and this novel filters that trauma into a concentrated fury, fired by a man driven mad by squandered dreams and base exploitation. If you work with the internet and feel a little dirty sometimes you need to read this. (Very cheap on Kindle at time of writing.) 
+Back in the day (circa 2006-2010) I was one of those blogging / social media evangelist types because, through my early adoption (I started blogging in 2000) I saw great potential in these new twists on communication technology. The downward spiral of the last decade and counting has been traumatic to watch and this novel filters that trauma into a concentrated fury, fired by a man driven mad by squandered dreams and base exploitation. If you work with the internet and feel a little dirty sometimes you need to read this. (Very cheap on Kindle at time of writing.) 
 
 **[Radical Technologies - The Design of Everyday Life](http://amzn.to/2upiM7r)**
 
