@@ -30,7 +30,7 @@ Neil Gaiman's work is like a teenager trying too hard to be a clever adult, and 
 
 *****
 
-Books are mostly related to Instructions for Humans but a couple could be of interest to a wider audience. 
+Books are mostly related to [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/) but a couple could be of interest to a wider audience. 
 
 **[I Hate The Internet](http://amzn.to/2sXcvSH)**
 
