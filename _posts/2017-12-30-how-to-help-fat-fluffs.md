@@ -17,7 +17,7 @@ Fat Fluffs is also a sanctuary, housing a pack of 10-20 rabbits which cannot be 
 
 We just did our end of year household budget and [our three rabbits](http://bunminster.uk) cost us a little over £1,000 in food and vets bills in 2017. This is not a problem, of course, but it does put Fat Fluff's mission into some perspective. By my guess they have 90-100 rabbits at the moment, including a batch of 40 which arrived the week before Xmas. (These had been breeding in a 2-bed flat by someone who, I believe, has now been moved to a care-home. One of the side-victims of mental illness are the animals used for comfort and companionship, and I have no doubt this person loved their rabbits, but that's another issue for another day.) The point is Fat Fluffs pick up these pieces and it costs a lot of money to do so, not to mention time and effort. 
 
-Obviously in this Age of Utter Awfulness, our society's safety nets are fraying and you may consider there to be more pressing issues in need of help than rabbits. I would never argue against you, but you pick your battles and I have a vested interest.
+Obviously, in this Age of Utter Awfulness&#8482;, with society's safety nets fraying you may consider there to be more pressing issues than rabbits. I would never argue against you, but you pick your battles and I have chosen this one, amongst others. 
 
 So, if you want to help Fat Fluffs, here's how. 
 
