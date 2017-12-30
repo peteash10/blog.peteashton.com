@@ -6,7 +6,7 @@ category: "Rabbits"
 description: I've been helping there recently, because rabbits are awesome. There are a number of ways you can help too. 
 ---
 
-***Massive caveat - I am an occasional volunteer and not formally associated with Fat Fluffs. This page is to raise awareness and paint a picture of what can be done and may be slightly wrong or out of date. You should always contact them first.*** 
+***Massive caveat - I am an occasional volunteer and not formally associated with Fat Fluffs. This page is to raise awareness and paint a picture of what can be done. It may be slightly wrong or out of date. You should always contact them first.*** 
 
 ![Tea break with the Fat Fluffs residents.](http://blog.peteashton.com/images/fatfluffs1.jpg)
 *Tea break with the permanent Fat Fluffs residents.*
