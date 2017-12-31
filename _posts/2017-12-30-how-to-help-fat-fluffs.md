@@ -11,7 +11,7 @@ description: I've been helping there recently, because rabbits are awesome. Ther
 ![Tea break with the Fat Fluffs residents.](http://blog.peteashton.com/images/fatfluffs1.jpg)
 *Tea break with the permanent Fat Fluffs residents.*
 
-Since they helped us bond Bunminster and Joy, and in the process brought Clem into our lives, we've been quite attached to the [Fat Fluffs rabbit rescue](http://www.fatfluffs.com) near Solihull. It's similar to most animal rescues but only takes rabbits, which means they're not tacked onto the side of the dog and cat kennels and are given the priority they might need. 
+Since they helped us bond Bunminster and Joy, and in the process brought Clem into our lives, we've been quite attached to the [Fat Fluffs rabbit rescue](http://www.fatfluffs.com), based in a village between Birmingham and Coventry. It's similar to most animal rescues but only takes rabbits, which means they're not tacked onto the side of the dog and cat kennels and are given the priority they might need. 
 
 Fat Fluffs is also a sanctuary, housing a pack of 10-20 rabbits which cannot be rehomed for health or personality reasons, but their primary mission is to accept any and all unwanted rabbits, get them healthy and rehome as many as possible. 
 
@@ -61,15 +61,15 @@ The main social media platform is [the Facebook page](https://www.facebook.com/f
 
 ## Board your bunny
 
-If you have rabbits then consider using Fat Fluffs (or another sanctuary) to [board](http://www.fatfluffs.com/boarding/) them when you go on holiday. Not only are you leaving your loved ones somewhere with experts and medical facilities on call, boarding is a significant income stream for the charity. At Fat Fluffs, boarders, residents, and newcommers are kept strictly seperate with newcommers quarantined and everything sanitised so there's no risk of catching anything.
+If you have rabbits then consider using Fat Fluffs (or another sanctuary) to [board](http://www.fatfluffs.com/boarding/) them when you go on holiday. Not only are you leaving your loved ones somewhere with experts and medical facilities on call, boarding is a significant income stream for the charity. At Fat Fluffs, boarders, residents, and newcomers are kept strictly separate with newcomers quarantined and everything sanitised so there's no risk of catching anything.
 
-The last time we borded with them it cost £10 per day for all three rabbits in one hutch. That's a bargain. 
+The last time we boarded with them it cost £10 per day for all three rabbits in one hutch. That's a bargain. 
 
 ## Adopt a rabbit
 
 I left this til last as it's not something to be entered into lightly. There's so many misconceptions around keeping rabbits as pets - that they can live alone in a cage, that they're perfect for children, that they don't need much attention, that they're cheap. 
 
-As I said, we spent over £1,200 last year on three rabbits. They need at least an hour a day of attention, including a run in the garden whatever the weather. They need to live in packs of 2 or more, but if the pack hierarchy is off they will fight and draw blood until it's sorted again (we spent £670 on vet bills last year). They hide any illness until it's almost too late and then have to be force-fed recovery food. They live for around a decade. They are a HUGE committment. 
+As I said, we spent over £1,200 last year on three rabbits. They need at least an hour a day of attention, including a run in the garden whatever the weather. They need to live in packs of 2 or more, but if the pack hierarchy is off they will fight and draw blood until it's sorted again (we spent £670 on vet bills last year). They hide any illness until it's almost too late and then have to be force-fed recovery food. They live for around a decade. They are a HUGE commitment. 
 
 Keeping rabbits healthy and happy is surprisingly similar to owning a dog, commitment-wise. In fact I'd say a cat is easier because cats tend to look after themselves. You really have to look after rabbits. 
 
