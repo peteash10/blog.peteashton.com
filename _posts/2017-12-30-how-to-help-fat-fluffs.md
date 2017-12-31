@@ -23,7 +23,7 @@ So, if you want to help Fat Fluffs, here's how.
 
 ## Volunteer your time
 
-Rabbits are usually very clean creatures but they do produce a lot of poop (this is the official rabbit husbandry term for lagomorph excrement). At best their litter trays just need emptying and cleaning. At worst they don't know what a little tray is and have made their own rules. The hutches need cleaning daily. There are 36 hutches. Many hands = light work.
+Rabbits are usually very clean creatures but they do produce a lot of poop (this is the official rabbit husbandry term for lagomorph excrement). At best their litter trays just need emptying and cleaning. At worst they don't know what a little tray is and have made their own rules. The hutches need cleaning daily. There are 32 hutches. Many hands = light work.
 
 You're cleaning hutches while the rabbits are in them, and some rabbits welcome human contact. In fact cuddling them can be critical to their well being, keeping them suitable for rehoming. So it's not all scooping poop!
 
