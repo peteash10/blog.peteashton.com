@@ -55,30 +55,32 @@ A recent, and very successful, thing has been [the Amazon Wishlist](http://amzn.
 
 If you've spent any time on the internet you'll know it's basically powered by people sharing pictures of cute animals. Fat Fluffs have plenty, plus some heart-warming/breaking stories to go with them. 
 
-[The Rabbits for Adoption section of the site](http://www.fatfluffs.com/rabbit/list/) has the current slate who are ready for their foreverhomes. If you see any real cuties it would be a shame not to show them to the world, and link back to the site. 
+[The Rabbits for Adoption section of the site](http://www.fatfluffs.com/rabbit/list/) has the current slate who are ready for their foreverhomes. And then there are the [Success Stories](http://www.fatfluffs.com/article/list/), where people who've adopted a bun or two report on how they're getting on. (Look, [there's Clem!](http://www.fatfluffs.com/article/149/)) If you see any real cuties it would be a shame not to show them to the world, and link back to the site. 
 
 The main social media platform is [the Facebook page](https://www.facebook.com/fatfluffs/) which is worth keeping an eye on for news. They're also very active on Instagram at [@fat_fluffs](https://www.instagram.com/fat_fluffs/). The Twitter, [@fatfluffs](https://twitter.com/fatfluffs), is pretty dead but does have a link to the site so it's worth mentioning when tweeting about them. 
 
 ## Board your bunny
 
-If you have rabbits then consider using Fat Fluffs (or another sanctuary) to board them when you go on holiday. Not only are you leaving your loved ones somewhere with experts and medical facilities on call, boarding is a significant income stream for the charity. At Fat Fluffs, boarders, residents, and newcommers are kept strictly seperate with newcommers quarantined and everything sanitised so there's no risk of catching anything.
+If you have rabbits then consider using Fat Fluffs (or another sanctuary) to [board](http://www.fatfluffs.com/boarding/) them when you go on holiday. Not only are you leaving your loved ones somewhere with experts and medical facilities on call, boarding is a significant income stream for the charity. At Fat Fluffs, boarders, residents, and newcommers are kept strictly seperate with newcommers quarantined and everything sanitised so there's no risk of catching anything.
 
 The last time we borded with them it cost £10 per day for all three rabbits in one hutch. That's a bargain. 
 
 ## Adopt a rabbit
 
-I left this til last as it's not something to be entered into lightly. There's many misconceptions around keeping rabbits as pets - that they can live alone in a cage, that they don't need much attention, that they're cheap. 
+I left this til last as it's not something to be entered into lightly. There's so many misconceptions around keeping rabbits as pets - that they can live alone in a cage, that they're perfect for children, that they don't need much attention, that they're cheap. 
 
-As I said, we spent over £1,200 last year on three rabbits. They need at least an hour a day of attention, including a run in the garden whatever the weather. They need to live in packs of 2 or more. If the pack hierarchy is off they will fight and draw blood until it's sorted again (we spent £670 on vet bills last year). They live for around a decade. They are a committment. 
+As I said, we spent over £1,200 last year on three rabbits. They need at least an hour a day of attention, including a run in the garden whatever the weather. They need to live in packs of 2 or more, but if the pack hierarchy is off they will fight and draw blood until it's sorted again (we spent £670 on vet bills last year). They hide any illness until it's almost too late and then have to be force-fed recovery food. They live for around a decade. They are a HUGE committment. 
 
 Keeping rabbits healthy and happy is surprisingly similar to owning a dog, commitment-wise. In fact I'd say a cat is easier because cats tend to look after themselves. You really have to look after rabbits. 
 
-All that said, keeping rabbits changed our lives for the better. I have no regrets. So if you think you have the space, time and budget to give a couple (or more!) rabbits a home, please talk to Fat Fluffs before going to the pet shop.
+All that said, keeping rabbits changed our lives for the better. I have no regrets. So if you think you have the space, time and budget to give two (or more!) rabbits a home, [please go to Fat Fluffs](http://www.fatfluffs.com/rabbit/list/) before the pet shop.
 
-Adopt, don't shop! 
+**Adopt, don't shop!** 
 
 * * *
 
 Again, **I'm not formally associated with Fat Fluffs.** This post is not canonical information. If you want to help in any serious way you should always [contact them first](http://www.fatfluffs.com/contact/). 
 
 On behalf of the rabbits, thank you! 
+
+![](http://blog.peteashton.com/images/fatfluffs3.jpg) 
