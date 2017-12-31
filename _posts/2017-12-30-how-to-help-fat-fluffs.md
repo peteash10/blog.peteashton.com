@@ -15,9 +15,9 @@ Since they helped us bond Bunminster and Joy, and in the process brought Clem in
 
 Fat Fluffs is also a sanctuary, housing a pack of 10-20 rabbits which cannot be rehomed for health or personality reasons, but their primary mission is to accept any and all unwanted rabbits, get them healthy and rehome as many as possible. 
 
-We just did our end of year household budget and [our three rabbits](http://bunminster.uk) cost us a little over £1,000 in food and vets bills in 2017. This is not a problem, of course, but it does put Fat Fluff's mission into some perspective. By my guess they have 90-100 rabbits at the moment, including a batch of 40 which arrived the week before Xmas. (These had been breeding in a 2-bed flat by someone who, I believe, has now been moved to a care-home. One of the side-victims of mental illness are the animals used for comfort and companionship, and I have no doubt this person loved their rabbits, but that's another issue for another day.) The point is Fat Fluffs pick up these pieces and it costs a lot of money to do so, not to mention time and effort. 
+We just did our end of year household budget and [our three rabbits](http://bunminster.uk) cost us a little over £1,200 in food and vets bills in 2017. This is not a problem, of course, but it does put Fat Fluff's mission into some perspective. By my guess they have 90-100 rabbits at the moment, including a batch of 40 which arrived the week before Xmas. (These had been breeding in a 2-bed flat by someone who, I believe, has now been moved to a care-home. One of the side-victims of mental illness are the animals used for comfort and companionship, and I have no doubt this person loved their rabbits, but that's another issue for another day.) The point is Fat Fluffs pick up these pieces and it costs a lot of money to do so, not to mention time and effort. 
 
-Obviously, in this Age of Utter Awfulness&#8482;, with society's safety nets fraying you may consider there to be more pressing issues than rabbits. I would never argue against you, but you pick your battles and I have chosen this one, amongst others. 
+Obviously, in this Age of Utter Awfulness&#8482;, with society's safety nets fraying, you may consider there to be more pressing issues than rabbit welfare. I would never argue against you, but you pick your battles and I have chosen this one, amongst others. 
 
 So, if you want to help Fat Fluffs, here's how. 
 
@@ -58,6 +58,24 @@ If you've spent any time on the internet you'll know it's basically powered by p
 [The Rabbits for Adoption section of the site](http://www.fatfluffs.com/rabbit/list/) has the current slate who are ready for their foreverhomes. If you see any real cuties it would be a shame not to show them to the world, and link back to the site. 
 
 The main social media platform is [the Facebook page](https://www.facebook.com/fatfluffs/) which is worth keeping an eye on for news. They're also very active on Instagram at [@fat_fluffs](https://www.instagram.com/fat_fluffs/). The Twitter, [@fatfluffs](https://twitter.com/fatfluffs), is pretty dead but does have a link to the site so it's worth mentioning when tweeting about them. 
+
+## Board your bunny
+
+If you have rabbits then consider using Fat Fluffs (or another sanctuary) to board them when you go on holiday. Not only are you leaving your loved ones somewhere with experts and medical facilities on call, boarding is a significant income stream for the charity. At Fat Fluffs, boarders, residents, and newcommers are kept strictly seperate with newcommers quarantined and everything sanitised so there's no risk of catching anything.
+
+The last time we borded with them it cost £10 per day for all three rabbits in one hutch. That's a bargain. 
+
+## Adopt a rabbit
+
+I left this til last as it's not something to be entered into lightly. There's many misconceptions around keeping rabbits as pets - that they can live alone in a cage, that they don't need much attention, that they're cheap. 
+
+As I said, we spent over £1,200 last year on three rabbits. They need at least an hour a day of attention, including a run in the garden whatever the weather. They need to live in packs of 2 or more. If the pack hierarchy is off they will fight and draw blood until it's sorted again (we spent £670 on vet bills last year). They live for around a decade. They are a committment. 
+
+Keeping rabbits healthy and happy is surprisingly similar to owning a dog, commitment-wise. In fact I'd say a cat is easier because cats tend to look after themselves. You really have to look after rabbits. 
+
+All that said, keeping rabbits changed our lives for the better. I have no regrets. So if you think you have the space, time and budget to give a couple (or more!) rabbits a home, please talk to Fat Fluffs before going to the pet shop.
+
+Adopt, don't shop! 
 
 * * *
 
