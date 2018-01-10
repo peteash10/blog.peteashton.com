@@ -23,7 +23,7 @@ So, if you want to help Fat Fluffs, here's how.
 
 ## Volunteer your time
 
-Rabbits are usually very clean creatures but they do produce a lot of poop (this is the official rabbit husbandry term for lagomorph excrement). At best their litter trays just need emptying and cleaning. At worst they don't know what a little tray is and have made their own rules. The hutches need cleaning daily. There are 32 hutches. Many hands = light work.
+Rabbits are usually very clean creatures but they do produce a lot of poop (this is the official rabbit husbandry term for lagomorph excrement). At best their litter trays just need emptying and cleaning. At worst they don't know what a litter tray is and have made their own rules. The hutches need cleaning daily. There are 32 hutches. Many hands = light work.
 
 You're cleaning hutches while the rabbits are in them, and some rabbits welcome human contact. In fact cuddling them can be critical to their well being, keeping them suitable for rehoming. So it's not all scooping poop!
 
@@ -63,7 +63,7 @@ The main social media platform is [the Facebook page](https://www.facebook.com/f
 
 If you have rabbits then consider using Fat Fluffs (or another sanctuary) to [board](http://www.fatfluffs.com/boarding/) them when you go on holiday. Not only are you leaving your loved ones somewhere with experts and medical facilities on call, boarding is a significant income stream for the charity. At Fat Fluffs, boarders, residents, and newcomers are kept strictly separate with newcomers quarantined and everything sanitised so there's no risk of catching anything.
 
-The last time we boarded with them it cost £10 per day for all three rabbits in one hutch. That's a bargain. 
+The last time we boarded with them it cost £16 per day for all three rabbits in one hutch. That's a bargain. 
 
 ## Adopt a rabbit
 
