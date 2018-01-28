@@ -32,7 +32,7 @@ I've never been *that* bothered by Trek. Never really watched the originals and 
 
 ### [Godless](https://en.wikipedia.org/wiki/Godless_(TV_series))
 
-A Netflix jobby that's a nice example of this weird place we're at in television where these investment-rich companies are indulging all kinds of stuff in an attempt to dominate everything. Once one of them gets the monopoly it's all be shite again, but let's enjoy it while it lasts. Godless is written and directed by one man and is about five hours longer than should be economically viable. It meanders. It pauses.  It spends whole minutes just staring at nothing. It's gorgeous. The plot is rudimentary wild-west-meets-progress stuff but the execution is as pure a delight as we're likely to see. I loved every moment. 
+A Netflix jobby that's a nice example of this weird place we're at in television where these investment-rich companies are indulging all kinds of stuff in an attempt to dominate everything. Once one of them gets the monopoly it'll all be shite again, but let's enjoy it while it lasts. Godless is written and directed by one man and is about five hours longer than should be economically viable. It meanders. It pauses.  It spends whole minutes just staring at nothing. It's gorgeous. The plot is rudimentary wild-west-meets-progress stuff but the execution is as pure a delight as we're likely to see. I loved every moment. 
 
 ### [The Marvelous Mrs. Maisel](https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel)
 
