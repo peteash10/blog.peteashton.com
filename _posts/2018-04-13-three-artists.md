@@ -10,9 +10,9 @@ I went to some gallery shows and would like to show you work by three young peop
 
 ### Joe Mulford
 
-![](../images/joemulford1.jpg)
+![](/images/joemulford1.jpg)
 
-![](../images/joemulford2.jpg)
+![](/images/joemulford2.jpg)
 
 These are from a series of self portraits dealing with his autism and feelings of self-worth. I really like the mix of technical experimentation (in-camera and post-processing) and attempting to universalise the personal. 
 
@@ -20,9 +20,9 @@ Best place to see his work is [his Instagram stream](https://www.instagram.com/j
 
 ### Georgia Sandy
 
-![](../images/georgiasandy1.jpg)
+![](/images/georgiasandy1.jpg)
 
-![](../images/georgiasandy3.jpg)
+![](/images/georgiasandy3.jpg)
 
 From a series titled Bacterial Veneer, these are gorgeously lit photos of cultures grown from samples taken from individuals, creating a portrait of the person through their microbiome. What excites me about this work is where she might take it next. So many possibilities...
 
@@ -34,11 +34,11 @@ Both Joe and Georgia were seen at the [Far Out Brum](https://www.faroutbrum.com)
 
 If you've been watching the local music scene in Birmingham over the last decade you'll have seen Lewes' art on [gig flyers and posters](https://lewesherriot.carbonmade.com/projects/2955127#2). I first came across him in 2007, as recorded on [this early Created in Birmingham post](http://www.createdinbirmingham.com/2007/03/27/lewes-herriot/). Eleven years later he has a solo show of recent work at Artefact, and it's one of the best shows of this sort I've seen in a long time. 
 
-![](../images/lewesherriot1.jpg)
+![](/images/lewesherriot1.jpg)
 
-![](../images/lewesherriot2.jpg)
+![](/images/lewesherriot2.jpg)
 
-![](../images/lewesherriot3.jpg)
+![](/images/lewesherriot3.jpg)
 
 This new body of work, titled **The Glass Arcana**, comprises a series of 23 pictures in the style of tarot cards but representing, or dramatising maybe, the personal. And I don't want to try and say more because they kinda speak for themselves. 
 
