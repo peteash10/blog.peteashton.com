@@ -30,7 +30,7 @@ Lots of good stuff in my [Instapaper Faves](https://www.instapaper.com/p/peteash
 
 ### Art News
 
-I'm still writing the Instructions for Humans essay/book (4,500 words and counting), but I have an actual deadline now. I was asked to run a workshop for the [Art & AI festival](http://art-ai.dmu.ac.uk) in Leicester on how artists can use and respond to massive data-processing systems (aka [AI for Artists](https://www.phoenix.org.uk/event/ai-for-artists/) )and that happens on Saturday May 5th at the Phoenix. So everything has to be wrapped up by then!
+I'm still writing the Instructions for Humans essay/book (4,500 words and counting), but I have an actual deadline now. I was asked to run a workshop for the [Art & AI festival](http://art-ai.dmu.ac.uk) in Leicester on how artists can use and respond to massive data-processing systems (aka [AI for Artists](https://www.phoenix.org.uk/event/ai-for-artists/)) and that happens on Saturday May 5th at the Phoenix. So everything has to be wrapped up by then!
 
 Alongside this I started work on the [Rivers of the World](http://riversoftheworld.org) project last month in Worcestershire, beginning with an excellent workshop session with pupils in Tenbury. This month it's Evesham and then the month after is Pershore. Each school produces an artwork through me and they're all exhibited in London, Exeter and Worcester in the Autumn. It's quite exciting and once I actually have something to show I'll tell all about it.
 
