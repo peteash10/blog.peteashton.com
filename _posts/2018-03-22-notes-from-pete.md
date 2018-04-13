@@ -36,6 +36,7 @@ Fiona, my partner in life and love, launched a new project this week. [Observed 
 - - - -
 
 [Instapaper Faves](https://www.instapaper.com/p/peteashton) (aka, articles I marked as good in my Instapaper account)
+
 * [12 Things Everyone Should Understand About Tech](https://medium.com/humane-tech/12-things-everyone-should-understand-about-tech-d158f5a26411)  by Sir Anil Dash, Grand Admiral of the Internet. Always worth listening to Anil.
 * [Bitcoin Is Ridiculous. Blockchain Is Dangerous](https://www.bloomberg.com/news/features/2018-03-09/bitcoin-is-ridiculous-blockchain-is-dangerous-paul-ford)  by Paul Ford. Soon this whole nightmare will be over, but in the meanwhile...
 * [No one’s coming. It’s up to us.](https://medium.com/@hondanhon/no-ones-coming-it-s-up-to-us-de8d9442d0d)  Dan Hon nicely articulates the growing unease over the limits of technological optimism, starting with a lovely bit of personal history.
