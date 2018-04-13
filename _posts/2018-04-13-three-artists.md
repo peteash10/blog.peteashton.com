@@ -6,7 +6,7 @@ category: "Art"
 description: I went to some gallery shows and would like to show you work by three young people.
 ---
 
-I went to some gallery shows and would like to show you work by three young people, two at the start of something interesting, and one who seems to have made a massive leap into something very special. 
+I went to some gallery shows and would like to show you work by three young people, two at the start of something interesting, and one who has made a massive leap into something very special. 
 
 ### Joe Mulford
 
@@ -45,3 +45,5 @@ This new body of work, titled **The Glass Arcana**, comprises a series of 23 pic
 A big part of their success is the printing, by Joseph from the Holodeck, who also put together the gorgeous exhibition book. The colours of the prints sing out, while the book has a muted, vintage comic book feel. The jpegs above feel cheap in comparison. 
 
 His show runs at [Artefact](http://artefactstirchley.co.uk) in Stirchley until April 28th after which at least one of the pieces can be found on our living room wall. (Fiona needs to have a good think on her shortlist of six - I've got the book so I'm good.)
+
+Lewes has a [portfolio site](https://lewesherriot.carbonmade.com) and [a shop](http://lewesherriot.bigcartel.com) from where you can buy said prints. 
