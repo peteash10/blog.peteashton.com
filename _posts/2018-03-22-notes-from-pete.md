@@ -20,7 +20,7 @@ If you think you might be autistic, [here's the standard test](https://www.wired
 
 The [Black Hole Club](http://www.vividprojects.org.uk/membership/), an artist group I'm a member of, has [their launch show next Friday at Vivid](http://www.vividprojects.org.uk/programme/blackholeclub2018/)  and I have an art in it. Open from 6-8pm with performances. I'm honoured to consider this bunch of freaks my peers. Here's the poster. 
 
-![](http://gallery.tinyletterapp.com/f935d1d5d5a45044d6508ddc245c90d4fb7ff1e2/images/80d3d37a-c1ee-4d52-af53-a3bd7e2cb3de.jpg)
+![](http://blog.peteashton.com/images/bhc2018launchposter.jpg)
 - - - -
 
 [Alan Butler did a Twitter-rant](https://twitter.com/alan_butler/status/976566315656863745) about artists being encouraged to use social media and how they probably shouldn't. Yes, there are exceptions, and he's talking about the corporate social platforms, not the actual internet, but it's a good counter to the narrative we've been fed over the years. Yes, I've been complicit in that at times, but in my defence I've tried to emphasise the internet as way to rewire society in interesting new ways and to find and share knowledge and ideas. A collaborative space, if you like, which I genuinely believed could be advantageous for artists making work. I got the hell out of that business once the PR people took over and it all became a metrics game. Anyhoo, I'd love to see Alan run a social media workshop for artists at some "innovate and create" conference, not just because it'd be hilarious.
