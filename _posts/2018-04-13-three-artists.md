@@ -40,10 +40,11 @@ If you've been watching the local music scene in Birmingham over the last decade
 
 ![](/images/lewesherriot3.jpg)
 
-This new body of work, titled **The Glass Arcana**, comprises a series of 23 pictures in the style of tarot cards but representing, or dramatising maybe, the personal. And I don't want to try and say more because they kinda speak for themselves. 
+This new body of work, titled **The Glass Arcana**, comprises a series of 23 pictures in the style of tarot cards but representing, or dramatising maybe, the personal. They also represent a dramatic improvement in his work that, having been aware of his for so long, is a delight to see. It's like something has clicked and it's all come together. 
 
 A big part of their success is the printing, by Joseph from the Holodeck, who also put together the gorgeous exhibition book. The colours of the prints sing out, while the book has a muted, vintage comic book feel. The jpegs above feel cheap in comparison. 
 
 His show runs at [Artefact](http://artefactstirchley.co.uk) in Stirchley until April 28th after which at least one of the pieces can be found on our living room wall. (Fiona needs to have a good think on her shortlist of six - I've got the book so I'm good.)
 
 Lewes has a [portfolio site](https://lewesherriot.carbonmade.com) and [a shop](http://lewesherriot.bigcartel.com) from where you can buy said prints. 
+
