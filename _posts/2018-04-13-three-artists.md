@@ -40,7 +40,7 @@ If you've been watching the local music scene in Birmingham over the last decade
 
 ![](/images/lewesherriot3.jpg)
 
-This new body of work, titled **The Glass Arcana**, comprises a series of 23 pictures in the style of tarot cards but representing, or dramatising maybe, the personal. They also represent a dramatic improvement in his work that, having been aware of his for so long, is a delight to see. It's like something has clicked and it's all come together. 
+This new body of work, titled **The Glass Arcana**, comprises a series of 23 pictures in the style of tarot cards but representing, or dramatising maybe, the personal. They also represent a dramatic improvement that, having been aware of his work for so long, is a delight to see. It's like something has clicked and it's all come together. 
 
 A big part of their success is the printing, by Joseph from the Holodeck, who also put together the gorgeous exhibition book. The colours of the prints sing out, while the book has a muted, vintage comic book feel. The jpegs above feel cheap in comparison. 
 
