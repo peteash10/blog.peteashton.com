@@ -10,7 +10,7 @@ description: RIP Joy, Stellar, Young Brummie Artists,  Recommended Reading, News
 
 ### Rabbit News
 
-Sadly we had Joy put down today. She's had snuffles now since Easter and it took a turn for the worse. Basically she couldn't breath and was in pain. I'll doubtless write more about this wonderful rabbit soon, but for now we're just taking it easy.  If I'm honest, putting this email together has been a useful distraction from it all. 
+Sadly we had Joy put down today. She's had snuffles now since Easter and it took a turn for the worse. Basically she couldn't breath and was in pain. I'll doubtless write more about this wonderful rabbit soon, but for now we're just taking it easy.  If I'm honest, putting this together has been a useful distraction from it all. 
 
 ![](http://peteashton.com/images/joy.jpg)
 
@@ -53,7 +53,7 @@ I'd not heard of ice carousels before. They're [normally](https://www.youtube.co
 
 It occurred to me I subscribe to a fair few of these things. Here's a few you might also like. 
 
-[Laura Olin](https://www.lauraolin.com/newsletter/) - Not even sure who she is to be honest, or why I subscribed, which is a bit odd but kinda nice having these missives arriving devoid of context. Her newsletter is a Top Ten list of links and observations that's good for a graze.
+[Laura Olin](https://www.lauraolin.com/newsletter/) - Not even sure who she is to be honest, or why I subscribed, which is a bit odd but turns out it's kinda nice having these missives arriving devoid of context. Her newsletter is a Top Ten list of links and observations that's good for a graze.
 
 [Dan Hon](https://tinyletter.com/danhon) - The Daddy of the long-form stream of consciousness newsletter who has this amazing trick of not making 3,000 words feel like an obligation. You can read them in depth or skim through with equal benefit.
 
