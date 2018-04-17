@@ -51,7 +51,7 @@ I'd not heard of ice carousels before. They're [normally](https://www.youtube.co
 
 ### Subscribe to These
 
-It occurred to me I subscribe to a fair few of these things. Here's a few you might also like. 
+It occurred to me I subscribe to a fair few newsletters. Here's a few you might also like. 
 
 [Laura Olin](https://www.lauraolin.com/newsletter/) - Not even sure who she is to be honest, or why I subscribed, which is a bit odd but turns out it's kinda nice having these missives arriving devoid of context. Her newsletter is a Top Ten list of links and observations that's good for a graze.
 
