@@ -34,12 +34,12 @@ twitter:
 # Site Author
 author:
   name             : "Pete Ashton"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Artist, etc"
   location         : "Birmingham, UK"
   email            : "pete@peteashton.com"
-  uri              : http://peteashton.com
-  home             : http://peteashton.com
+  uri              : "http://peteashton.com"
+  home             : "http://peteashton.com"
   bitbucket        :
   codepen          :
   dribbble         :
