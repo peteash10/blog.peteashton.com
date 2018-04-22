@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title:  "London Field Trip - Richard Mosse"
 date:   2017-03-20 23:00:00 +0000
 category: "Art"

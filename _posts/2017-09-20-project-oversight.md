@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title:  "Instructions for Humans interlude: Project Oversight"
 date:   2017-09-20 14:42:32 +0000
 category: "Art"

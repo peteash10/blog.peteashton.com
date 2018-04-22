@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title:  "ASCII to Abbey"
 date:   2017-03-02 15:00:00 +0000
 category: "Art"

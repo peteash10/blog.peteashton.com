@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title:  "Three artists of note"
 date:   2018-04-10 12:42:32 +0000
 category: "Art"

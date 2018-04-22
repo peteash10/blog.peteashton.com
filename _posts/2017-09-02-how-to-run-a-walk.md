@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title:  "How to run a walk"
 date:   2017-09-02 14:38:42
 category: "Art"
