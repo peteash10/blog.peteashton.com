@@ -25,7 +25,6 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
 
 My name is [Pete Ashton](http://peteashton.com). I used to blog a lot. I stopped for a while but the voices in my head got too crazy so now I'm blogging again to try and quell them. 
 
