@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: categories
 title:  "Customer Satisfaction is Evil"
 date:   2017-09-23 12:57:17 +0000
 category: "Politics"

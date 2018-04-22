@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: categories
 title:  "Media Diet for December through January"
 date:   2018-01-27 23:56:29 +0000
 category: "Media"

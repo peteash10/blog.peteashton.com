@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: categories
 title:  "Bias, Brains, Magic, and Black Boxes, amongst other thinkings"
 date:   2017-04-14 02:00:00 +0000
 category: "Art"

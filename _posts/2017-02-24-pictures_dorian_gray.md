@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: categories
 title:  "Pictures from Dorian Gray"
 date:   2017-02-24 15:00:00 +0000
 category: "Art"

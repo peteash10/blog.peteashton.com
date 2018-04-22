@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: categories
 title:  "Notes from Pete"
 date:   2018-03-22 12:42:32 +0000
 category: "Notes"
