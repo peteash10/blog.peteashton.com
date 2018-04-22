@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About this blog
 permalink: /about/
+toc: true
 ---
 
 My name is [Pete Ashton](http://peteashton.com). I used to blog a lot. I stopped for a while but the voices in my head got too crazy so now I'm blogging again to try and quell them. 
