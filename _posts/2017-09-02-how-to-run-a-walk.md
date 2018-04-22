@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: posts
 title:  "How to run a walk"
 date:   2017-09-02 14:38:42
 category: "Art"
-description: Safety and legal stuff if you're leading people around a city. 
+excerpt: Safety and legal stuff if you're leading people around a city. 
 ---
 
 I was asked for advice on running a walk in Birmingham. Since I do this quite often, here's what I do. 

@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: posts
 title:  "Media Diet for June"
 date:   2017-06-30 01:45:45 +0000
 category: "Media"
-description: Maggie's Plan, Jurassic World, Kimmy Schmidt, American Gods, I Hate The Internet, Radical Technologies and some music.
+excerpt: Maggie's Plan, Jurassic World, Kimmy Schmidt, American Gods, I Hate The Internet, Radical Technologies and some music.
 ---
 
 Inspired by [Joanne McNeil's excellent newsletter](http://tinyletter.com/jomc/archive) I'm going to try and do regular Media Diet posts because I seem to be consuming a lot of prepackaged media at the moment and it's probably a good idea to account for it. For this entry it's mostly recommendations. For future ones I may keep a strict record. 

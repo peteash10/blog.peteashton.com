@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: posts
 title:  "Some More Notes from Pete"
 date:   2018-04-17 12:42:32 +0000
 category: "Notes"
-description: RIP Joy, Stellar, Young Brummie Artists,  Recommended Reading, Newsletters of Note, Holotable On.
+excerpt: RIP Joy, Stellar, Young Brummie Artists,  Recommended Reading, Newsletters of Note, Holotable On.
 ---
 
 *This was written for my [newsletter](http://tinyletter.com/peteashton), but it's also pretty bloggy, and there isn't a service that reliably does both email __and__ RSS, so...*

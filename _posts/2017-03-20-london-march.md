@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: posts
 title:  "London Field Trip - Richard Mosse"
 date:   2017-03-20 23:00:00 +0000
 category: "Art"
-description: I went to see his Incoming exhibition at the Barbican and found it very good indeed. 
+excerpt: I went to see his Incoming exhibition at the Barbican and found it very good indeed. 
 ---
 
 To The Barbican for the [Richard Mosse](http://www.richardmosse.com) exhibition. I'd heard of Mosse for his amazing [false-colour infrared photos from the war in Eastern Congo](http://www.richardmosse.com/projects/the-enclave), using a chemical interpretation of invisible light to bring a new perspective on the conflict. They start of being weird, and then beautiful and then you're engaged. 

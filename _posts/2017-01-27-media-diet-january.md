@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: posts
 title:  "Media Diet for December through January"
 date:   2018-01-27 23:56:29 +0000
 category: "Media"
-description: Soooooo many box sets. 
+excerpt: Soooooo many box sets. 
 ---
 
 After Instructions for Humans closed and I decided to take a month off to let everything settle, I watched A LOT of what we still call Television, mostly what we still call Box Sets through the corporate streaming services of Netflix and Amazon, with a few via BitTorrent because I can't stomach giving money to Murdoch (though of course that [should change soon](http://www.bbc.co.uk/news/business-42353545)). 

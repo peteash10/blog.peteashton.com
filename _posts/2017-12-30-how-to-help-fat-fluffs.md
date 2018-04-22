@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: posts
 title:  "How to help Fat Fluffs rabbit rescue"
 date:   2017-12-30 12:42:32 +0000
 category: "Rabbits"
-description: I've been helping there recently, because rabbits are awesome. There are a number of ways you can help too. 
+excerpt: I've been helping there recently, because rabbits are awesome. There are a number of ways you can help too. 
 ---
 
 ***Massive caveat - I am an occasional volunteer and not formally associated with Fat Fluffs. This page is to raise awareness and paint a picture of what can be done. It may be slightly wrong or out of date. You should always [contact them first](http://www.fatfluffs.com/contact/).*** 

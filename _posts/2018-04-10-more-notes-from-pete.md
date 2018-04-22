@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: posts
 title:  "More Notes from Pete"
 date:   2018-04-10 12:42:32 +0000
 category: "Notes"
-description: Rabbits, Recommended Reading, Art News and Music Corner.
+excerpt: Rabbits, Recommended Reading, Art News and Music Corner.
 ---
 
 *This was written for my [newsletter](http://tinyletter.com/peteashton), but it's also pretty bloggy, and there isn't a service that reliably does both email __and__ RSS, so...*

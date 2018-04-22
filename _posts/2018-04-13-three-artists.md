@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: posts
 title:  "Three artists of note"
 date:   2018-04-10 12:42:32 +0000
 category: "Art"
-description: I went to some gallery shows and would like to show you work by three young people.
+excerpt: I went to some gallery shows and would like to show you work by three young people.
 ---
 
 I went to some gallery shows and would like to show you work by three young people, two at the start of something interesting, and one who has made a massive leap into something very special. 

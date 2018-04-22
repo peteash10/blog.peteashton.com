@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: posts
 title:  "Customer Satisfaction is Evil"
 date:   2017-09-23 12:57:17 +0000
 category: "Politics"
-description: The relationship between Uber's actions and the satisfaction of their customers tells us a lot about the problems with consumer capitalism.
+excerpt: The relationship between Uber's actions and the satisfaction of their customers tells us a lot about the problems with consumer capitalism.
 ---
 
 Back before I decided to be an artist I was an "internet person" back when we weren't entirely sure what the internet was for. Around 2006-7 I found myself at the [SWSW](https://www.sxsw.com) Interactive festival which was an amazing experience, surrounded by hundreds of other nerds who weren't entirely sure what the internet was for. Twitter had just launched, Facebook was on the ascendence and the venture capitalism money was flowing fast. It was an interesting time that, over 12-16 months, raised my spirits and then dashed them on the rocks. (Although I did also meet my wife, so it was definitely all worth it in the end). It's probably no coincidence that the term "social media" was coined in this period, taking vague notions of distributed, autonomous citizen media and codifying them into corporate silos. But that's not the subject for today. 

@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: posts
 title:  "Instructions for Humans interlude: Project Oversight"
 date:   2017-09-20 14:42:32 +0000
 category: "Art"
-description: Turns out Marvel's Captain America movie is the best illustration of data abuse in popular culture.
+excerpt: Turns out Marvel's Captain America movie is the best illustration of data abuse in popular culture.
 ---
 
 After a fairly intense couple of weeks I finally had a day off on Monday and decided to veg and watch a stupid movie. My stupid movie genre of choice these days is the [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe) which have a nice mix of earnest nonsense and knowing humour. I settled on the 9th in the series, [Captain America: The Winter Soldier](https://en.wikipedia.org/wiki/Captain_America:_The_Winter_Soldier), which I remember enjoying at the time as a superior iteration of the genre. I wasn't expecting to find a really useful metaphor for my work in it though. 

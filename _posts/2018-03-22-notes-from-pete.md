@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: posts
 title:  "Notes from Pete"
 date:   2018-03-22 12:42:32 +0000
 category: "Notes"
-description: The archive of the newsletter reboot starts here. 
+excerpt: The archive of the newsletter reboot starts here. 
 ---
 
 *This was written for my [newsletter](http://tinyletter.com/peteashton), but it's also pretty bloggy, and there isn't a service that reliably does both email __and__ RSS, so...*
