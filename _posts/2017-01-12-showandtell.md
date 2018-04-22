@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: default
 title:  "Show and Tell"
 date:   2017-01-12 18:37:37 +0000
 category: "Art"

@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: default
 title:  "How to help Fat Fluffs rabbit rescue"
 date:   2017-12-30 12:42:32 +0000
 category: "Rabbits"

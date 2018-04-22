@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: default
 title:  "Media Diet for June"
 date:   2017-06-30 01:45:45 +0000
 category: "Media"
