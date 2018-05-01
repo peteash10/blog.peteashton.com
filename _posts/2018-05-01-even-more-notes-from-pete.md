@@ -6,7 +6,7 @@ category: "Notes"
 excerpt: Optical Array, DuckRabbit, Fiona News, Audre Lorde, Fascists, Good People, Hire Me.
 ---
 
-*This was written for my [newsletter](http://tinyletter.com/peteashton), but it's also pretty bloggy, and there isn't a service that reliably does both email __and__ RSS, so...*
+*This is also sent out via my [newsletter](http://tinyletter.com/peteashton).*
 
 ## New Art
 
@@ -16,7 +16,7 @@ I completed [**Optical Array**](http://art.peteashton.com/optical-array/) last w
 
 The work hangs 144 lenses in the way of a projection of deep space images, lightly animated by a fan. It took bloody ages to make but is quite simple really. Like all new work I didn't know if it would be any good until it was finished, and due to a mad-busy week I didn't finish it until 10 minutes before the show opened, so it was quite a relief when it turned out to be quite good indeed. Phew! 
 
-Maybe the definition of a good piece of art is when it transcends the sum of its parts. This could have just been "a bunch of stuff hanging in front of some space pics" but somehow it became more than that. Not unlike how people come out Jenny and my absurdly simple [camera obscura](http://bhamobscura.com) grinning their tit off. Lenses really are powerful things. 
+Maybe the definition of a good piece of art is when it transcends the sum of its parts. This could have just been "a bunch of stuff hanging in front of some space pics" but somehow it became more than that. Not unlike how people come out Jenny and my absurdly simple [camera obscura](http://bhamobscura.com) grinning their tits off. Lenses really are powerful things. 
 
 [There's a video of it](https://vimeo.com/267017593), if you can't make it in person.  And having spent sooo long making the thing I'd love to use it again, should you be running an event that could benefit from a lens array. Hit me up. 
 
@@ -62,8 +62,7 @@ It makes me want to burn stuff down, and that's always a nice feeling.
 
 ## Linkylinks
 
-- [An AI can realistically "paint in" missing areas of photographs](https://kottke.org/18/04/an-ai-can-realistically-paint-in-missing-areas-of-photographs)
-This is cool, but it's also not what people are saying it is. The eyes are only as good as the training set. Maybe one day it will be trained on a samples closer to "all eyes" but right now, nah. In fact, the more you understand how these things work the less impressive they become. Which is possibly the most interesting thing about them.  ([This just popped into my feed](https://kottke.org/18/04/ais-predictions-and-judgment) and looks like it might be a good explainer of AI's limitations - will digest.)
+- [An AI can realistically "paint in" missing areas of photographs](https://kottke.org/18/04/an-ai-can-realistically-paint-in-missing-areas-of-photographs) - This is cool, but it's also not what people are saying it is. The eyes are only as good as the training set. Maybe one day it will be trained on a samples closer to "all eyes" but right now, nah. In fact, the more you understand how these things work the less impressive they become. Which is possibly the most interesting thing about them.  ([This just popped into my feed](https://kottke.org/18/04/ais-predictions-and-judgment) and looks like it might be a good explainer of AI's limitations - will digest.)
 
 - [Apollo Virtual Microscope](https://www.virtualmicroscope.org/collections/apollo) - I was amazed I didn't know this existed. Zoomable scans of moon rocks from the Apollo missions. Glorious. (via my fellow artist [Carol Breen](http://www.imagemover.co.uk) who used them for her piece in Stellar  - see above.)
 
@@ -73,24 +72,21 @@ This is cool, but it's also not what people are saying it is. The eyes are only 
 
 **Meanwhile, in Right-Wing Populism...**
 
-- [Enoch Powell's "Rivers of Blood" Speech at 50](https://www.theatlantic.com/international/archive/2018/04/enoch-powell-rivers-of-blood/558344/)
-This got a lot of noise of late with very little light, so it's handy to have something of an outsider perspective from The Atlantic on this seemingly clear-cut, but on closer inspection annoyingly slippery, moment in our history that refuses to be brushed away. 
+- [Enoch Powell's "Rivers of Blood" Speech at 50](https://www.theatlantic.com/international/archive/2018/04/enoch-powell-rivers-of-blood/558344/) - This got a lot of noise of late with very little light, so it's handy to have something of an outsider perspective from The Atlantic on this seemingly clear-cut, but on closer inspection annoyingly slippery, moment in our history that refuses to be brushed away. 
 
-- [How American Racism Influenced Hitler](https://www.newyorker.com/magazine/2018/04/30/how-american-racism-influenced-hitler)
-The print title for this piece, The Hitler Vortex, is more accurate as it spends 4,000 words on other fascinating things before getting  to the American influence, looking at how our collective understanding of how the Holocaust came to happen has changed over the years, usually to avoid difficult questions about the culpability of the victors. So much easier to say it was all Hitler's fault. But if you're keen to get to the American influence search for "As for Hitler and America" for a litany of ways the Nazis looked approvingly at US institutional racism for inspiration. 
+- [How American Racism Influenced Hitler](https://www.newyorker.com/magazine/2018/04/30/how-american-racism-influenced-hitler) - The print title for this piece, The Hitler Vortex, is more accurate as it spends 4,000 words on other fascinating things before getting  to the American influence, looking at how our collective understanding of how the Holocaust came to happen has changed over the years, usually to avoid difficult questions about the culpability of the victors. So much easier to say it was all Hitler's fault. But if you're keen to get to the American influence search for "As for Hitler and America" for a litany of ways the Nazis looked approvingly at US institutional racism for inspiration. 
 
-- [The dark history of 'America first'](https://www.theguardian.com/books/2018/apr/21/end-of-the-american-dream-the-dark-history-of-america-first)
-A brief history of that rather loaded dog-whistle of a term, along with its bedfellows "100% American" and "Nordic" through the 20th century. 
+- [The dark history of 'America first'](https://www.theguardian.com/books/2018/apr/21/end-of-the-american-dream-the-dark-history-of-america-first) - A brief history of that rather loaded dog-whistle of a term, along with its bedfellows "100% American" and "Nordic" through the 20th century. 
 
 ***
 
 ## Good People
 
-[Jay Owens](https://twitter.com/hautepop) wrote that marvellous [Age of Post-Authenticity](https://medium.com/s/story/post-authenticity-and-the-real-truths-of-meme-culture-f98b24d645a0) article last month and her Twitter has proven to be very relevant to my interests as well as thoroughly enjoyable to read. If we all tweeted like this Twitter might actually be useful. 
+[**Jay Owens**](https://twitter.com/hautepop) wrote that marvellous [Age of Post-Authenticity](https://medium.com/s/story/post-authenticity-and-the-real-truths-of-meme-culture-f98b24d645a0) article last month and her Twitter has proven to be very relevant to my interests as well as thoroughly enjoyable to read. If we all tweeted like this Twitter might actually be useful. 
 
-[Nicolas Nova](https://tinyletter.com/nicolasnova) is a Swiss digital arts futurist type who I was quite taken with when I saw him speak once. His newsletter is of the "things that have caught my attention recently" variety in nice bitesized chunks. Notable also because it's bilingual, translated from his native French.
+[**Nicolas Nova**](https://tinyletter.com/nicolasnova) is a Swiss digital arts futurist type who I was quite taken with when I saw him speak once. His newsletter is of the "things that have caught my attention recently" variety in nice bitesized chunks. Notable also because it's bilingual, translated from his native French.
 
-[Joseph DeLappe](http://www.delappe.net/) did a talk about his work in Birmingham this week and while I couldn't make it, Fiona did and her report made it feel like we were separated at birth - similar attitudes and methods to work, only he's a good decade ahead of me, which makes him perfect stalking material, sorry, mentor material. I particularly like [this](http://www.delappe.net/east-of-fallon-highway-50-nevada/) and [this](http://www.delappe.net/project/cardboard-gandhi-2008-2009/). Oh, and [this](http://www.delappe.net/intervene/project-929-mapping-the-solar/)
+[**Joseph DeLappe**](http://www.delappe.net/) did a talk about his work in Birmingham this week and while I couldn't make it, Fiona did and her report made it feel like we were separated at birth - similar attitudes and methods to work, only he's a good decade ahead of me, which makes him perfect stalking material, sorry, mentor material. I particularly like [this](http://www.delappe.net/east-of-fallon-highway-50-nevada/) and [this](http://www.delappe.net/project/cardboard-gandhi-2008-2009/). Oh, and [this](http://www.delappe.net/intervene/project-929-mapping-the-solar/)
 
 ***
 
