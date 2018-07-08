@@ -21,7 +21,7 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title">{{ page.title }}</h1>
     {% endunless %}
-    <p class="page__meta">{{ page.date | date: "%B %d, %Y" }} <i class="far fa-clock" aria-hidden="true" style="margin-left: 2em;"></i> {% include read-time.html %}</p></p>
+    <p class="page__meta">{{ page.date | date: "%B %d, %Y" }} <i class="far fa-clock" aria-hidden="true" style="margin-left: 2em;"></i> {% include read-time.html %}</p>
     {{ content }}
   </div>
 </div>
