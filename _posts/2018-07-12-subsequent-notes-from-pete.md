@@ -81,7 +81,7 @@ Not much art stuff happening for the rest of the summer. I will be taking the [C
 I'm starting a new series at Artefact, hopefully in August if I can get my act together, called [Stirchley Salon](http://peteashton.com/stirchleysalon/), an informal event where two artists will present their work to an audience of peers and interested folks. I've been to a few events like this and they're really useful, interesting and nice, three things I think all events should be. Watch this space. 
 
 ## Rabbit Photo
-Well done for making it to the end. Here's a photo of Sweep and Mogwai, two of the Fat Fluffs permanent residents. Fi and I now regularly volunteer there on Wednesdays helping with health checks and bonding. It's very rewarding. 
+Well done for making it to the end. Here's a photo of Sweep and Mogwai, two of the [Fat Fluffs](http://fatfluffs.com) permanent residents. Fi and I now regularly volunteer there on Wednesdays helping with health checks and bonding. It's very rewarding. 
 
 
 ![](/assets/images/sweepmogwai.jpg)
