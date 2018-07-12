@@ -84,4 +84,4 @@ I'm starting a new series at Artefact, hopefully in August if I can get my act t
 Well done for making it to the end. Here's a photo of Sweep and Mogwai, two of the Fat Fluffs permanent residents. Fi and I now regularly volunteer there on Wednesdays helping with health checks and bonding. It's very rewarding. 
 
 
-
+![](/assets/images/sweepmogwai.jpg)
