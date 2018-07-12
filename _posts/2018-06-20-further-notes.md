@@ -6,6 +6,8 @@ category: "Notes"
 excerpt: Things I'm up to in late-June.  
 ---
 
+*This is also sent out via my [newsletter](http://tinyletter.com/peteashton).*
+
 Been VERY BUSY of late which means no time to write or reflect on stuff, which is never good. But at the same time it's nice to be busy. I was hoping June was going to be a bit quieter but nope.
 
 Next week I'll hear about a big fellowship application I spent most of the Spring working on. If I get it, everything changes as there's a nice lump of cash attached. If I don't I'll be actively looking for work. Of course I'm always looking for work, being a freelance type. If you're the sort that employs arty freelancers please do keep this in mind!

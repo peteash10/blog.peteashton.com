@@ -6,6 +6,8 @@ category: "Notes"
 excerpt: Thinking about what I might do next, and more importantly how I might make it happen.
 ---
 
+*This is also sent out via my [newsletter](http://tinyletter.com/peteashton).*
+
 The seemingly endless procession of To Do items appears to have subsided, just in time for the heatwave to switch from novelty to "I'm just going to lie still and wait it out." Today was mostly spent doing as little as possible but as evening beckons and a light breeze finally tickles the hair on my arms, it's time to get writing. 
 
 *Some musing follows, which might take a while as I have a fair bit to figure out, so feel free to scroll down and skip to the links.* 
