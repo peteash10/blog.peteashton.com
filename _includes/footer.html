@@ -15,7 +15,7 @@
     {% if site.author.tinyletter %}
       <li><a href="https://tinyletter.com/{{ site.author.tinyletter }}"><i class="fab fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
     {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "RSS Feed" }}</a></li>
   </ul>
 </div>
 
