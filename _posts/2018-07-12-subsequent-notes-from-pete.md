@@ -76,7 +76,7 @@ Thank you for your time. Here are the links.
 
 ## Eventing with Pete
 
-Not much art stuff happening for the rest of the summer. I will be taking the [Camera Obscura](http://bhamobscura.com) to the [Lunar Festival](http://lunarfestival.co.uk) over the last week of July, should you be going, and will also be setting it up for the Hazelwell Allotments summer BBQ, should you be one of Stirchley's allotmenteers. I'm hoping these will kickstart more public obscura action after too long a break. 
+Not much art stuff happening for the rest of the summer. I will be taking the [Camera Obscura](http://bhamobscura.com) to the Hazelwell Allotments summer BBQ, should you be one of Stirchley's allotmenteers. I'm hoping this will kickstart more public obscura action after too long a break. 
 
 I'm starting a new series at Artefact, hopefully in August if I can get my act together, called [Stirchley Salon](http://peteashton.com/stirchleysalon/), an informal event where two artists will present their work to an audience of peers and interested folks. I've been to a few events like this and they're really useful, interesting and nice, three things I think all events should be. Watch this space. 
 
